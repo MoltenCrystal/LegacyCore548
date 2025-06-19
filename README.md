@@ -1,8 +1,6 @@
-## Build Status
+![img](https://github.com/MoltenCrystal/TrinityCoreLegacy548/blob/main/doc/img/MoPlogo.webp)
 
-Windows | GCC | Clang
-:------------: | :------------: | :------------:
-[![Windows x64](https://github.com/ReyDonovan/TrinityPandaCore/actions/workflows/build-win-x64.yml/badge.svg)](https://github.com/ReyDonovan/TrinityPandaCore/actions/workflows/build-win-x64.yml)
+## A SkyFire and TrinityCore based project
 
 ## Requirements
 + Platform: Linux, Windows or Mac
@@ -29,6 +27,3 @@ Read file [COPYING](COPYING.md)
 
 ## Authors &amp; Contributors
 Read file [THANKS](THANKS.md)
-
-## To-Do List
-Read File [TO-DO](TODO.md)
